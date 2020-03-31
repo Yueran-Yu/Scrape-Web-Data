@@ -47,10 +47,10 @@ for line in romance_links:
     # print("Price: " + price)
     # print(img_link)
     movies_item_dict.update(
-        {id: {'name': title, 'description': description, 'price': price, 'img_link': img_link,  'category': 'Rommance'}})
+        {id: {'name': title, 'description': description, 'price': price, 'img_link': img_link,  'category': 'Romance'}})
     id += 1
 
 pprint.pprint(movies_item_dict)
 
-with open(os.path.join('Outputs', 'rommance.json'), 'w') as fp:
+with open(os.path.join('Outputs', 'romance.json'), 'w') as fp:
     json.dump(movies_item_dict, fp, indent=4)

@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bc57451-8bb1-4240-b866-eb65fa581a59" name="Default Changelist" comment="" />
+    <list default="true" id="3bc57451-8bb1-4240-b866-eb65fa581a59" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OldMoives/Outputs/cleansers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OldMoives/Outputs/romance.json" beforeDir="false" afterPath="$PROJECT_DIR$/OldMoives/Outputs/romance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OldMoives/Outputs/rommance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OldMoives/romance.py" beforeDir="false" afterPath="$PROJECT_DIR$/OldMoives/romance.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZpH511ZcCzAn4yHnOxSPGMDJWp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -40,29 +50,7 @@
       <recent name="$PROJECT_DIR$/MetOperaShop/Outputs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.western">
-    <configuration name="commedy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ScrapeWebData" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MetOperaShop" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MetOperaShop/commedy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.romance (1)">
     <configuration name="crime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ScrapeWebData" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,6 +87,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MetOperaShop/drama.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="romance (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScrapeWebData" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OldMoives" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OldMoives/romance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.romance (1)" />
         <item itemvalue="Python.western" />
         <item itemvalue="Python.romance" />
         <item itemvalue="Python.drama" />
         <item itemvalue="Python.crime" />
-        <item itemvalue="Python.commedy" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +181,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585528928993</updated>
-      <workItem from="1585528931724" duration="19243000" />
+      <workItem from="1585528931724" duration="19410000" />
+      <workItem from="1585627984562" duration="259000" />
     </task>
     <servers />
   </component>
@@ -183,48 +194,57 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="638" y="370" key="#com.intellij.fileTypes.FileTypeChooser/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1585545586093" />
-    <state width="1750" height="505" key="GridCell.Tab.0.bottom" timestamp="1585618693363">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1750" height="391" key="GridCell.Tab.0.bottom" timestamp="1585619316883">
+      <screen x="0" y="23" width="1792" height="1065" />
     </state>
     <state width="1750" height="505" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1585618693363" />
     <state width="1750" height="419" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1585541856470" />
-    <state width="1750" height="505" key="GridCell.Tab.0.center" timestamp="1585618693362">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1750" height="391" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585619316883" />
+    <state width="1750" height="391" key="GridCell.Tab.0.center" timestamp="1585619316883">
+      <screen x="0" y="23" width="1792" height="1065" />
     </state>
     <state width="1750" height="505" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1585618693362" />
     <state width="1750" height="419" key="GridCell.Tab.0.center/1792.23.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1585541856469" />
-    <state width="1750" height="505" key="GridCell.Tab.0.left" timestamp="1585618693361">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1750" height="391" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585619316883" />
+    <state width="1750" height="391" key="GridCell.Tab.0.left" timestamp="1585619316883">
+      <screen x="0" y="23" width="1792" height="1065" />
     </state>
     <state width="1750" height="505" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1585618693361" />
     <state width="1750" height="419" key="GridCell.Tab.0.left/1792.23.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1585541856468" />
-    <state width="1750" height="505" key="GridCell.Tab.0.right" timestamp="1585618693363">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1750" height="391" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585619316883" />
+    <state width="1750" height="391" key="GridCell.Tab.0.right" timestamp="1585619316883">
+      <screen x="0" y="23" width="1792" height="1065" />
     </state>
     <state width="1750" height="505" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1585618693363" />
     <state width="1750" height="419" key="GridCell.Tab.0.right/1792.23.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1585541856470" />
-    <state width="1750" height="391" key="GridCell.Tab.1.bottom" timestamp="1585542318842">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1750" height="391" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585619316883" />
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom" timestamp="1585619316884">
+      <screen x="0" y="23" width="1792" height="1065" />
     </state>
     <state width="1750" height="391" key="GridCell.Tab.1.bottom/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1585542318842" />
-    <state width="1750" height="391" key="GridCell.Tab.1.center" timestamp="1585542318840">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585619316884" />
+    <state width="1750" height="391" key="GridCell.Tab.1.center" timestamp="1585619316884">
+      <screen x="0" y="23" width="1792" height="1065" />
     </state>
     <state width="1750" height="391" key="GridCell.Tab.1.center/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1585542318840" />
-    <state width="1750" height="391" key="GridCell.Tab.1.left" timestamp="1585542318840">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1750" height="391" key="GridCell.Tab.1.center/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585619316884" />
+    <state width="1750" height="391" key="GridCell.Tab.1.left" timestamp="1585619316884">
+      <screen x="0" y="23" width="1792" height="1065" />
     </state>
     <state width="1750" height="391" key="GridCell.Tab.1.left/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1585542318840" />
-    <state width="1750" height="391" key="GridCell.Tab.1.right" timestamp="1585542318841">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1750" height="391" key="GridCell.Tab.1.left/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585619316884" />
+    <state width="1750" height="391" key="GridCell.Tab.1.right" timestamp="1585619316884">
+      <screen x="0" y="23" width="1792" height="1065" />
     </state>
     <state width="1750" height="391" key="GridCell.Tab.1.right/1792.0.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1585542318841" />
+    <state width="1750" height="391" key="GridCell.Tab.1.right/1792.23.1920.1057/0.23.1792.1065@0.23.1792.1065" timestamp="1585619316884" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ScrapeWebData$action_adventure.coverage" NAME="action_adventure Coverage Results" MODIFIED="1585545917092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MetOperaShop" />
     <SUITE FILE_PATH="coverage/ScrapeWebData$romance.coverage" NAME="romance Coverage Results" MODIFIED="1585618576990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MetOperaShop" />
     <SUITE FILE_PATH="coverage/ScrapeWebData$documentary.coverage" NAME="western Coverage Results" MODIFIED="1585618693356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MetOperaShop" />
     <SUITE FILE_PATH="coverage/ScrapeWebData$drama.coverage" NAME="drama Coverage Results" MODIFIED="1585617087563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MetOperaShop" />
+    <SUITE FILE_PATH="coverage/ScrapeWebData$romance__1_.coverage" NAME="romance (1) Coverage Results" MODIFIED="1585628062619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OldMoives" />
     <SUITE FILE_PATH="coverage/ScrapeWebData$commedy.coverage" NAME="commedy Coverage Results" MODIFIED="1585614830865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MetOperaShop" />
     <SUITE FILE_PATH="coverage/ScrapeWebData$crime.coverage" NAME="crime Coverage Results" MODIFIED="1585616895329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MetOperaShop" />
   </component>
